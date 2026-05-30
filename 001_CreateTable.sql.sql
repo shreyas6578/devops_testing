@@ -6,5 +6,6 @@ BEGIN
         Name VARCHAR(100),
         CreatedDate DATETIME DEFAULT GETDATE()
     )
+    --hello world
 END
 GO
