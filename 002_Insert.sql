@@ -4,4 +4,5 @@ VALUES
 ('David'),
 ('Smith'),
 ('Shreyas'),
+('Mohan')
 GO
