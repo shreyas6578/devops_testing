@@ -1,1 +1,1 @@
-sp=spGetTesting_sw,spGetTesting
+sp=spGetTesting_sw,spGetTesting,pr_AddNewUser
